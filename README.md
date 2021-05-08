@@ -1,4 +1,4 @@
-<h1>Spotlight with Python<img src="https://www.freepngimg.com/download/android/72537-icons-python-programming-computer-social-tutorial.png" width="100"/>  &nbsp; <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2018%2F05%2Fsearch-icon-gif-5.gif&f=1&nofb=1" width="150" style="margin-left: -40px;"/></h1>
+<h1>Spotlight with Python &nbsp; <img src="https://www.freepngimg.com/download/android/72537-icons-python-programming-computer-social-tutorial.png" width="100"/> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2018%2F05%2Fsearch-icon-gif-5.gif&f=1&nofb=1" width="150" style="margin-left: -40px;"/></h1>
 
 ---
 
