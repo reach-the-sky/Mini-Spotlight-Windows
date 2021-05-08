@@ -14,18 +14,18 @@ The libraries required can be installed via:
 > pip install tkinter webbrowser PyDictionary
 
 #### Note
-> Press Esc to close the application.
+* Press Esc to close the application.
 
-> To know how the application works type help in the search box.
+* To know how the application works type help in the search box.
 
 
 ##### To run the python file with shortcut
 
-> Use ShareType.pyw (This extension, allows you to run python script without opening the code or the terminal).
+* Use ShareType.pyw (This extension, allows you to run python script without opening the code or the terminal).
 
-> This extension is similar to .exe but you need to install all the dependencies.
+* This extension is similar to .exe but you need to install all the dependencies.
 
-> Link a shortcut to the .pyw file in the desktop on windows operating system to trigger the search whenever you need it.
+* Link a shortcut to the .pyw file in the desktop on windows operating system to trigger the search whenever you need it.
 
 
 ##### To clone this repository
